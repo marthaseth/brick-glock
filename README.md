@@ -1,1 +1,1 @@
-*brick-glock
+brick-glock
